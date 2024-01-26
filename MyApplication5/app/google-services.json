@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680635525722",
+    "project_id": "myapplication-9cf92",
+    "storage_bucket": "myapplication-9cf92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680635525722:android:83acd066877f3a71e7c663",
+        "android_client_info": {
+          "package_name": "com.yasir.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvWrBIV9PPvjeagjgIBTmt8FDrkQXdbgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
